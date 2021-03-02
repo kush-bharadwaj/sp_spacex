@@ -10,7 +10,7 @@ NextJS sample examples
 
 
 Resource URL:
-https://github.com/kush-bharadwaj/spacex
+https://github.com/kush-bharadwaj/sp_spacex
 
 Deployed URL:
-https://kush-spacex.web.app/home/dashboard/
+https://kush-spacex.web.app
